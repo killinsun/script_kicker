@@ -1,0 +1,7 @@
+[
+	{ 
+		"dateCheck": [{ "lastUpdate": "2018/01/12", "checkSkip": false }],
+		"userCheck": [{ "userAccount": "H1713022\\z2h8636", "checkSkip": false }],
+		"segmentCheck": [{ "networkAddr": "10.0.0.0", "prefix": 8, "checkSkip": false }]
+	}
+]
